@@ -1,0 +1,15 @@
+557 mm max diam
+max mass 500 kg (payload + dry mass)
+
+configuracao de prps: 
+	peroxido hidrogenio (htp 90 %)  + kerosene
+		ciclo: turbo bomba eletrica
+	
+	oxido nitroso + nitrometano (etanol)
+		ciclo: pressure feed 
+		
+s31 + 230
+
+
+
+
